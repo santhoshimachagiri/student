@@ -3,6 +3,7 @@ roll no : 26
 maths : 10
 pps : 8
 ap : 8
+ ed : 9
  
  roll no : 27
  maths : 10
