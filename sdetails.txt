@@ -9,3 +9,4 @@ ap : 8
  maths : 10
  pps : 9
  ap : 8
+ed : 8
